@@ -109,7 +109,6 @@ Main-Fellowship-Repo/
 
 ## Author
 
-**Hizar Abdullah**  
-- BS in Artificial Intelligence – COMSATS University Islamabad  
+**mahaz noor**  
+- BS in computer Science – COMSATS University Islamabad  
 - Digital Marketing & Data Science Enthusiast  
-- Contact: khizerarena77@gmail.com | +92 349 9224226
