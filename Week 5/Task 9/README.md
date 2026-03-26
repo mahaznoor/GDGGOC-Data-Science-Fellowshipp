@@ -104,15 +104,4 @@ A learning curve was plotted to analyze:
 - Seaborn
 - Scikit-learn
 
----
-
-## 🚀 How to Run
-
-1. Extract iris.zip (if using zipped dataset)
-2. Open the Jupyter Notebook
-3. Run all cells
-
----
-
-## 👨‍💻 Author
 
