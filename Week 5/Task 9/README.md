@@ -116,5 +116,3 @@ A learning curve was plotted to analyze:
 
 ## 👨‍💻 Author
 
-Hizar Abdullah  
-Bachelor's in Artificial Intelligence  

@@ -95,6 +95,3 @@ Breast Cancer Wisconsin (Diagnostic) Dataset – UCI Machine Learning Repository
 
 Author
 
-Hizar Abdullah – COMSATS University Islamabad, BS AI, Fellowship Participant
-Contact: khizerarena77@gmail.com
- | +92 349 9224226
