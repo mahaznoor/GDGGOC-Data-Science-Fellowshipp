@@ -15,9 +15,9 @@ print(result)
 
 ## Default Parameters
 def greet(name):
-    print(f"Hello {name} Welcome To the paradise")
+    print(f"Hello {name} Welcome To the quetta")
 
-greet("Anees Ahmad")
+greet("mahaz noor")
 
 ### Variable Length Arguments // It means the function can take any number of arguments.There are two types of variable length arguments.
 ## Positional And Keywords arguments
@@ -26,14 +26,14 @@ greet("Anees Ahmad")
 def print_numbers(*args):
     for arg in args:
         print(arg)
-print_numbers(1,2,3,4,5,6,7,8,"Anees Ahmad")
+print_numbers(1,2,3,4,5,6,7,8,"mahaz noor")
 
 # Keyword Arguments
 def print_details(**kwargs):
     for key,value in kwargs.items():
         print(f"{key}:{value}")
 
-print_details(name="Anees Ahmad",age="23",country="Pakistan")
+print_details(name="mahaz noor",age="21",country="Pakistan")
 
 # Difference between args and kwargs
 # Order matters in possitional arguments but not in keyword arguments.
